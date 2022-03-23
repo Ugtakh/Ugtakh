@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Ugtakhbayar.S 🚀.
-- 👀 I’m interested in distributed system.
+- 👀 I’m interested in system design and distributed system.
 - 🌱 I’m currently developing my coding skills to become a full stack developer.
 - 📫 You can reach me on ugtakhbayars@gmail.com
 
